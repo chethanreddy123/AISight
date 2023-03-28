@@ -1,0 +1,6 @@
+fastapi
+cv2
+numpy 
+pandas
+tensorflow 
+uuid
